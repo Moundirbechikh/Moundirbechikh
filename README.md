@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moundir Bechikh</h1>
-<h3 align="center">Software Engineer | Fullstack Developer (Frontend & UI/UX Focus)</h3>
-
 <p align="center">
-  📍 Oran, Algeria &nbsp;|&nbsp; 🎓 M2 SITW — Université Oran 1 Ahmed Ben Bella &nbsp;|&nbsp; 💼 Open to freelance & fullstack roles
+  <img src="./banner.jpg" alt="Hi, I'm Moundir Bechikh" width="100%" />
 </p>
 
 <p align="center">
@@ -95,9 +92,9 @@ Restaurant discovery portal.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moundirbechikh&show_icons=true&theme=default&hide_title=true" alt="Moundir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moundirbechikh&show_icons=true&theme=dark&hide_title=true" alt="Moundir's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moundirbechikh" alt="Moundir's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moundirbechikh&theme=dark" alt="Moundir's GitHub streak" />
 </p>
